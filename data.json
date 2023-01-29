@@ -1,0 +1,122 @@
+[
+    {
+        "title": "The Lighthouse",
+        "director": "Robert Eggers",
+        "lead_actors": ["Willem Dafoe", "Robert Pattinson"],
+        "genres": ["Horror", "Thriller", "Mystery", "Drama"],
+        "runtime": 110,
+        "release_year": 2019,
+        "rating": 9.5,
+        "review": ""
+    },
+    {
+        "title": "Elvis",
+        "director": "Baz Luhrmann",
+        "lead_actors": ["Austin Butler", "Tom Hanks"],
+        "genres": ["Musical", "Drama"],
+        "runtime": 159,
+        "release_year": 2022,
+        "rating": 5.1,
+        "review": ""
+    },
+    {
+        "title": "Dunkirk",
+        "director": "Christopher Nolan",
+        "lead_actors": ["Harry Styles", "Fionn Whitehead", "Cilian Murphy", "Tom Hardy"],
+        "genres": ["Drama", "Action", "Thriller"],
+        "runtime": 106,
+        "release_year": 2017,
+        "rating": 9.1,
+        "review": ""
+    },
+    {
+        "title": "Eyes Wide Shut",
+        "director": "Stanley Kubrick",
+        "lead_actors": ["Tom Cruise", "Nicole Kidman"],
+        "genres": ["Drama", "Thriller", "Mystery"],
+        "runtime": 165,
+        "release_year": 1999,
+        "rating": 8.4,
+        "review": ""
+    },
+    {
+        "title": "Eyes Wide Shut",
+        "director": "Stanley Kubrick",
+        "lead_actors": ["Tom Cruise", "Nicole Kidman"],
+        "genres": ["Drama", "Thriller", "Mystery"],
+        "runtime": 165,
+        "release_year": 1999,
+        "rating": 8.4,
+        "review": ""
+    },
+    {
+        "title": "Eastern Promises",
+        "director": "David Cronenberg",
+        "lead_actors": ["Viggo Mortensen", "Naomi Watts", "Vincent Castle"],
+        "genres": ["Drama", "Action"],
+        "runtime": 100,
+        "release_year": 2007,
+        "rating": 8.2,
+        "review": ""
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "director": "Hayao Miyazaki",
+        "lead_actors": ["Christian Bale", "Jean Simmons", "Christian Bale"],
+        "genres": ["Drama", "Fantasy", "Action"],
+        "runtime": 119,
+        "release_year": 2005,
+        "rating": 8.9,
+        "review": ""
+    },
+    {
+        "title": "The Northman",
+        "director": "Robert Eggers",
+        "lead_actors": ["Alexander Skarsgård", "Anya Taylor-Joy"],
+        "genres": ["Drama", "Thriller", "Action"],
+        "runtime": 137,
+        "release_year": 2022,
+        "rating": 8.2,
+        "review": ""
+    },
+    {
+        "title": "Nightmare on Elm Street",
+        "director": "Wes Craven",
+        "lead_actors": ["Johnny Depp", "Robert Englund", "Heather Langencamp"],
+        "genres": ["Horror", "Thriller"],
+        "runtime": 91,
+        "release_year": 1984,
+        "rating": 8.6,
+        "review": ""
+    },
+    {
+        "title": "The Alpinist",
+        "director": "Peter Mortimer & Nick Rosen",
+        "lead_actors": ["Marc-André Leclerc"],
+        "genres": ["Documentary"],
+        "runtime": 93,
+        "release_year": 2021,
+        "rating": 9.1,
+        "review": ""
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "lead_actors": ["Keir Duella", "Gary Lockwood", "William Sylvester"],
+        "genres": ["Science Fiction", "Fantasy", "Mystery"],
+        "runtime": 139,
+        "release_year": 1968,
+        "rating": 8.8,
+        "review": ""
+    },
+    {
+        "title": "The Master",
+        "director": "Paul Thomas Anderson",
+        "lead_actors": ["Joaquin Phoenix", "Philip Seymour Hoffman", "Amy Adams"],
+        "genres": ["Drama"],
+        "runtime": 144,
+        "release_year": 2012,
+        "rating": 8.3,
+        "review": ""
+    }
+]
