@@ -4,7 +4,7 @@ const PORT = 3001;
 const cors = require("cors")
 
 const corsOptions = {
-    origin: "https://the-good-bad-and-last-airbender.vercel.app/",
+    origin: ["https://the-good-bad-and-last-airbender.vercel.app", "http://localhost:3000"],
     optionsSuccessStatus: 200
 }
 
