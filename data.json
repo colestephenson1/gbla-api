@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "The Lighthouse",
         "director": "Robert Eggers",
         "lead_actors": ["Willem Dafoe", "Robert Pattinson"],
@@ -12,6 +13,7 @@
         "review": "Easily a top 10 movie that I have ever seen. The black and white emphasizes the dread that overshadows the entire movie and is the perfect touch. The acting from Pattinson and Dafoe is sublime, with Dafoe giving one of the best monologues in cinema history. Watch two men descend into madness as they are overtaken by the solemn embrace of a godforsaken rock."
     },
     {
+        "id": 2,
         "title": "Elvis",
         "director": "Baz Luhrmann",
         "lead_actors": ["Austin Butler", "Tom Hanks"],
@@ -24,6 +26,7 @@
         "review": "Austin Butler saves what is otherwise an unwatchable movie. Hyper-stylized, ultra-fast paced, very long, and does very little for character development. Complete overstimulation, and all narrated by one of the worst accents I have ever heard. It's one of those movies you think you've been watching for over an hour but it's only been twenty-five minutes. And it's nearly three hours long."
     },
     {
+        "id": 3,
         "title": "Dunkirk",
         "director": "Christopher Nolan",
         "lead_actors": ["Harry Styles", "Fionn Whitehead", "Cilian Murphy", "Tom Hardy"],
@@ -36,6 +39,7 @@
         "review": "A masterclass in WWII storytelling. The sense of dread and the largely unspoken struggle for survival is completely engrossing as a viewer. Watch this without distractions and sit with the idea that 400,000 real soldiers stood at Dunkirk without any known esacape as axis powers closed in. Chilling, and amazing."
     },
     {
+        "id": 4,
         "title": "Eyes Wide Shut",
         "director": "Stanley Kubrick",
         "lead_actors": ["Tom Cruise", "Nicole Kidman"],
@@ -48,6 +52,7 @@
         "review": "Kubrick alwasy delivers on creepy and unsettling. Exploring the perverse desires of both the elite and in the midst of our own bedrooms, this film delivers one of the most bizarre and compelling scenes ever with 'the party'. Kidman stands out in her deviant delivery of Alice, and the antagonist known only as 'Red Cape' will live in your memory."
     },
     {
+        "id": 5,
         "title": "Eastern Promises",
         "director": "David Cronenberg",
         "lead_actors": ["Viggo Mortensen", "Naomi Watts", "Vincent Castle"],
@@ -60,6 +65,7 @@
         "review": "An interesting take on organized crime channeled through the Russian mob. Though generally slower than your avergae mob movie, it feels comfortably paced, taking time to reflect on diasporic dynamics of Russian immigrants in America. Viggo Mortensen is a star in this role as well, absolutely deserved an Oscar."
     },
     {
+        "id": 6,
         "title": "Howl's Moving Castle",
         "director": "Hayao Miyazaki",
         "lead_actors": ["Christian Bale", "Jean Simmons", "Christian Bale"],
@@ -72,6 +78,7 @@
         "review": "What more can be said about this classic Miyazaki film? Fantastic, absurd, sweet, and incomporably animated. Even the wicked witch's grotesque features are animated in a way only Ghibli can. Sophie's character gives us insight into the changes we incur as we age, Calcifer reminds us to keep our passions burning, and Howl reminds us to hold onto youthful idealism. Wonderful movie."
     },
     {
+        "id": 7,
         "title": "The Northman",
         "director": "Robert Eggers",
         "lead_actors": ["Alexander Skarsgård", "Anya Taylor-Joy"],
@@ -84,6 +91,7 @@
         "review": "Not for the faint of heart. This movie will test your limits in what you can handle with gore and disturbing imagery. If you can get through that, Eggers delivers a great full-circle hero bent on vengeance story. Incorporating old Viking religion and feudal slave/master dynamics, this is a no holds barred approach to ancient Nordic storytelling."
     },
     {
+        "id": 8,
         "title": "Nightmare on Elm Street",
         "director": "Wes Craven",
         "lead_actors": ["Johnny Depp", "Robert Englund", "Heather Langencamp"],
@@ -96,6 +104,7 @@
         "review": "A horror classic that still holds its weight in the current day. Though Freddie may not be the most overwhelming physical villain, his grotesque face and creepy aesthetic while haunting dreams will put anyone on edge. It's also fun to see an early Johnny Depp, and the death scenes must have been groundbreaking for their time."
     },
     {
+        "id": 9,
         "title": "The Alpinist",
         "director": "Peter Mortimer & Nick Rosen",
         "lead_actors": ["Marc-André Leclerc"],
@@ -108,6 +117,7 @@
         "review": "A gorgeous and unsettling documentary about a man devoid of fear in some of the most unforgiving environments where he scales rock and ice without a rope. MAL was soloing unfathomably dangerous climbs, not for clout, but for the true connection with nature. The man lived a short time, but it was to serve a specific purpose. It's easy to be inspired by someone so singularly driven in life. Prepare to have your jaw on the floor with some of these camera shots."
     },
     {
+        "id": 10,
         "title": "2001: A Space Odyssey",
         "director": "Stanley Kubrick",
         "lead_actors": ["Keir Duella", "Gary Lockwood", "William Sylvester"],
@@ -120,6 +130,7 @@
         "review": "Quiet, contemplative, and deeply critical about the direction of the human race, Kubrick's finest film still challenges its new viewers like it was a brand new film. HAL's voice will linger in my head forever, as will the last third of this movie, which should be only known through an actual viewing rather than being described here."
     },
     {
+        "id": 11,
         "title": "The Master",
         "director": "Paul Thomas Anderson",
         "lead_actors": ["Joaquin Phoenix", "Philip Seymour Hoffman", "Amy Adams"],
