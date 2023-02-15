@@ -28,7 +28,7 @@ app.get("/movies", (req, res) => {
     res.status(200).json(movies);
 })
 
-app.get("/movies/:id"), (req, res) => {
+app.get("/:id"), (req, res) => {
     const movies = getMovies()
     const id = req.params.id
     // const selectedMovie = movies.find(movie => movie.id === id)
