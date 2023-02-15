@@ -32,7 +32,7 @@ app.get("/movies/:id"), (req, res) => {
     const movies = getMovies()
     const id = req.params.id
     // const selectedMovie = movies.find(movie => movie.id === id)
-    res.status(200).json(id)
+    res.status(200).json(`this movie had id of ${id}`)
 }
 
 app.listen(PORT, () => {
