@@ -28,6 +28,12 @@ app.get("/movies", (req, res) => {
     res.status(200).json(movies);
 })
 
+app.get(`/movies/${id}`), (req, res) => {
+    const movies = getMovies()
+    const selectedMovie = movies.find(movie => movie.id === id)
+    res.status(200).json(selectedMovie)
+}
+
 app.listen(PORT, () => {
     console.log("Server is listening on port:" + PORT)
 })
