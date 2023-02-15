@@ -28,9 +28,10 @@ app.get("/movies", (req, res) => {
     res.status(200).json(movies);
 })
 
-app.get("/:id"), (req, res) => {
+app.get("/movies:id"), (req, res) => {
     const movies = getMovies()
     const id = req.params.id
+    console.log(id)
     // const selectedMovie = movies.find(movie => movie.id === id)
     res.status(200).json(`this movie had id of ${id}`)
 }
