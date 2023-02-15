@@ -141,5 +141,18 @@
         "release_year": 2012,
         "rating": 8.3,
         "review": "A candid portrait of a what a vulnerable, directionless person is capable of believing. Joaquin Phoenix and PSH are perfect together in this dynamic, and PSH delivers as a deluded, narcissistic cult leader who has created his own reality around him. With obvious overtures to Scientology, this movie is biting yet compassionate to all the characters and their personal weaknesses"
+    },
+    {
+        "id": 12,
+        "title": "Scarface",
+        "director": "Brian De Palma",
+        "lead_actors": ["Al Pacino", "Michelle Pfeiffer", "Steven Bauer"],
+        "genres": ["Drama", "Action"],
+        "youtube": "7pQQHnqBa2E",
+        "poster": "https://m.media-amazon.com/images/I/41-Wj-Z8DnL._AC_.jpg",
+        "runtime": 170,
+        "release_year": 1983,
+        "rating": 8.7,
+        "review": "A masterclass in film pacing, Scarface keeps you glues to your seat for all 2 hours and 50 minutes. Showing the rise and fall of an antisocial narcissist devoid of fear and hungry for power, this movie shows humanity at its utmost corruptible. Pacino is enthralling, and the backdrop of 1980's Miami at the height of the cocaine trade creates an environment within an organized crime movie unlike any other."
     }
 ]
