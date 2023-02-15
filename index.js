@@ -30,7 +30,8 @@ app.get("/movies", (req, res) => {
 
 app.get("/movies/:id"), (req, res) => {
     const movies = getMovies()
-    const selectedMovie = movies.find(movie => movie.id === req.params.id)
+    const id = req.params.id
+    const selectedMovie = movies.find(movie => movie.id === id)
     res.status(200).json(selectedMovie)
 }
 
