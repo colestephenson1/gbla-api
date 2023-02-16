@@ -154,5 +154,18 @@
         "release_year": 1983,
         "rating": 8.7,
         "review": "A masterclass in film pacing, Scarface keeps you glues to your seat for all 2 hours and 50 minutes. Showing the rise and fall of an antisocial narcissist devoid of fear and hungry for power, this movie shows humanity at its utmost corruptible. Pacino is enthralling, and the backdrop of 1980's Miami at the height of the cocaine trade creates an environment within an organized crime movie unlike any other."
+    },
+    {
+        "id": 13,
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "lead_actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Matt Damon"],
+        "genres": ["Drama", "Science Fiction", "Fantasy"],
+        "youtube": "2LqzF5WauAw",
+        "poster": "https://m.media-amazon.com/images/I/71LNVGVpWYL.jpg",
+        "runtime": 169,
+        "release_year": 2014,
+        "rating": 9.6,
+        "review": "Holy Shit"
     }
 ]
