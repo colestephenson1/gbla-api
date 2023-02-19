@@ -167,5 +167,18 @@
         "release_year": 2014,
         "rating": 9.6,
         "review": "Holy Shit"
+    },
+    {
+        "id": 14,
+        "title": "The Wrestler",
+        "director": "Darren Aranofsky",
+        "lead_actors": ["Mickey Rourke", "Marissa Tomei", "Evan Rachael Wood"],
+        "genres": ["Drama"],
+        "youtube": "61-GFxjTyV0",
+        "poster": "https://s3.superluchas.com/2020/08/the-wrestler-poster-1-1-1024x1536.jpg",
+        "runtime": 110,
+        "release_year": 2008,
+        "rating": 8.4,
+        "review": "A candid and sad look at the plight of many Americans looking for direction purpose in a world that seeks to leave them behind. Mickey Rourke is incredible in this role at showing the existential pain of the divide between Randy the man and 'The Ram'. As age and abuse on his body threaten his ability to stay in the ring, we watch his struggle with adapting to the real world and reconciling with aspects of his past and present he could continually neglect at 'The Ram'. Sad, often unreedeming, but strikingly real and heartfelt. Aronofsky knocked it out of the park."
     }
 ]
