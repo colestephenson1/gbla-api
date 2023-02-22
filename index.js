@@ -11,11 +11,11 @@ const corsOptions = {
 app.use(cors(corsOptions))
 
 
-const fs = require("fs")
+const fs = require("fs");
 const path = require("path");
-const pathToFile = path.resolve("./data.json")
+const pathToFile = path.resolve("./data.json");
 
-const getMovies = () => JSON.parse(fs.readFileSync(pathToFile))
+const getMovies = () => JSON.parse(fs.readFileSync(pathToFile));
 
 app.use(express.json())
 
