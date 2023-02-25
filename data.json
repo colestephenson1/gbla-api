@@ -193,5 +193,18 @@
         "release_year": 2021,
         "rating": 7.1,
         "review": "A unique film that hits points of emotional resonance about love and loss, but ultimately misses the mark for me. There wasn't enough to keep me engaged with the slower-moving plot, despite solid performances from Cage and Arkin. One can easily understand the impetus of Cage's actions borne of love for his pet, and the lack of violence to drive the plot forward is a compelling directoral decision. Ultimately, the down-the-pipe story and lack on meaningful plot events kept me from liking this movie more. Worth your time though, as there are many who love this film, and to each their own."
+    },
+    {
+        "id": 16,
+        "title": "Thank You for Smoking",
+        "director": "Jason Reitman",
+        "lead_actors": ["Aaron Eckhart", "JK Simmons", "Maria Bello", "Katie Holmes"],
+        "genres": ["Comedy"],
+        "youtube": "Df32RijORLo",
+        "poster": "https://m.media-amazon.com/images/I/71J6cJpPgCL.jpg",
+        "runtime": 92,
+        "release_year": 2006,
+        "rating": 8.6,
+        "review": "Dark, bitingly cynical, and terrifying in its implications, this is an excellent comedy approaching a divisive issue from a different standpoint. Aaron Eckhart is perfect for the role as the ultimate spin artist, demonstrating the power of twisting a narrative in all aspect of American life, especially in the realm of public health. Compact and direct in its comedy, Thank You for Smoking was one of the better comedies I've seen in the past few years. Reccommended for anyone, even the most vehement anti-smokers."
     }
 ]
