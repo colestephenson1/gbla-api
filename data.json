@@ -219,5 +219,18 @@
         "release_year": 2022,
         "rating": 7.5,
         "review": "Had this review been based on the first 75% of the movie, the rating would be higher. Peele does a great job of incorporating suspense and creepy cinematic strategies throughout the majority of the movie. But, every monster movie needs to have a compelling monster, and Nope fails to deliver one. Once the true nature of the monster is revealed, the final showdown is boring, unsuspenseful, and the resolution of the movie being 'We got the photo' just didn't do it for me. There are elements of Peele's excellent direction that are on display here, but I think any of his other movies emphasize these skills much better. That being said, Kaluuya and Palmer are both great, and you can never go wrong with Steven Yeun (we miss you Glen)."
+    },
+    {
+        "id": 17,
+        "title": "Decision to Leave",
+        "director": "Park Chan-wook",
+        "lead_actors": ["Tang Wei", "Hae Il Park"],
+        "genres": ["Drama", "Mystery"],
+        "youtube": "Bmoy73lhs-s",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTEzYTljMTMtODU0ZC00ZWI0LTlhOGEtYjE3MjI3NTI1YmNhXkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_.jpg",
+        "runtime": 138,
+        "release_year": 2022,
+        "rating": 9.2,
+        "review": "There are so many things to unpack in this film. First, it is exquisitely shot, gorgeous in every scene. Both the main characters are complex and irrational, flawed and yet endearing in their cursed affair. Tang Wei is brilliant in her femme fatale role, never revelaing too much about her true intentions, and yet is vulnerable in the presence of Hae Il Park. Park shows what it means to be morally compromised, showing the agony of his affectation for his suspenct. The interplay between the two drives the film to new levels, and the conclusion leaves the audience unsatisfied in the most appropriate way. An absolute bombshell of a film despite its slow pace, and compelling in every line of unwasted dialogue."
     } 
 ]
