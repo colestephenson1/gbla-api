@@ -39,6 +39,6 @@ review: "Easily a top 10 movie that I have ever seen. The black and white emphas
 
 - Get all movies	https://gbla-api.vercel.app/movies.	GET	N/A All movies on the server: {movies: [{}, {}, ...]}
 
-- Get individual movie	https://gbla-api.vercel.app/findmovie/:youtube.	GET	N/A Individual movie {id: <number>, title: <string>, director: <string>, lead_actors: <array of strings>, genres: <array of strings>, youtube: <string>, poster: <string>, runtime: <number>, release_year: <number>, rating: <number>, review: <string>} see example above for successful response.
+- Get individual movie	https://gbla-api.vercel.app/findmovie/:youtube.	GET	N/A Individual movie {id: <number>, title: <string>, director: <string>, lead_actors: <array of strings>, genres: <array of strings>, youtube: <string>, poster: <string>, runtime: <number>, release_year: <number>, rating: <number>, review: <string>} see example above for successful response. An example to test with for :youtube is 42_UHhpq530.
 
-- Get all movies in a certain genre https://gbla-api.vercel.app/movies/:genre	GET	N/A	All movies within a chosen genre
+- Get all movies in a certain genre https://gbla-api.vercel.app/movies/:genre	GET	N/A	All movies within a chosen genre. An example genre is Action.
