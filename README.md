@@ -1,13 +1,14 @@
 # gbla-api
 
-The Good, The Bad, and the Last Airbender API
-[This API is used in conjunction with the GBLA Front End]()
+##The Good, The Bad, and the Last Airbender API
+- [This API is used in conjunction with the GBLA Front End](https://github.com/colestephenson1/The-Good-Bad-and-Last-Airbender)
 
-Setup
- visit https://gbla-api.vercel.app/. The display of "Smoke Test" will inform you the API is up and running.
+##Setup
+- visit https://gbla-api.vercel.app/. The display of "Smoke Test" will inform you the API is up and running.
 
-Data Model
-A order stored on the server has an id, title, director, lead actors, genres, youtube, poster, runtime, release year, rating, and review. Here is a sample movie object:
+##Data Model:
+
+- A movie stored on the server has an id, title, director, lead actors, genres, youtube, poster, runtime, release year, rating, and review. Here is a sample movie object:
 
 {
 id: 1,
@@ -33,8 +34,11 @@ review: "Easily a top 10 movie that I have ever seen. The black and white emphas
 }
 
 
-Endpoints
-Purpose	URL	Verb	Request Body	Sample Success Response
-Get all movies	https://gbla-api.vercel.app/movies.	GET	N/A All movies on the server: {movies: [{}, {}, ...]}
-Get individual movie	https://gbla-api.vercel.app/findmovie/:youtube.	GET	N/A Individual movie {id: <number>, title: <string>, director: <string>, lead_actors: <array of strings>, genres: <array of strings>, youtube: <string>, poster: <string>, runtime: <number>, release_year: <number>, rating: <number>, review: <string>} see example above for successdul response.
-Get all movies in a certain genre https://gbla-api.vercel.app/movies/:genre	GET	N/A	All movies within a chosen genre
+##Endpoints
+
+
+- Get all movies	https://gbla-api.vercel.app/movies.	GET	N/A All movies on the server: {movies: [{}, {}, ...]}
+
+- Get individual movie	https://gbla-api.vercel.app/findmovie/:youtube.	GET	N/A Individual movie {id: <number>, title: <string>, director: <string>, lead_actors: <array of strings>, genres: <array of strings>, youtube: <string>, poster: <string>, runtime: <number>, release_year: <number>, rating: <number>, review: <string>} see example above for successful response.
+
+- Get all movies in a certain genre https://gbla-api.vercel.app/movies/:genre	GET	N/A	All movies within a chosen genre
