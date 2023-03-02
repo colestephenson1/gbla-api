@@ -1,12 +1,12 @@
 # gbla-api
 
-##The Good, The Bad, and the Last Airbender API
+## The Good, The Bad, and the Last Airbender API
 - [This API is used in conjunction with the GBLA Front End](https://github.com/colestephenson1/The-Good-Bad-and-Last-Airbender)
 
-##Setup
+## Setup
 - visit https://gbla-api.vercel.app/. The display of "Smoke Test" will inform you the API is up and running.
 
-##Data Model:
+## Data Model:
 
 - A movie stored on the server has an id, title, director, lead actors, genres, youtube, poster, runtime, release year, rating, and review. Here is a sample movie object:
 
@@ -34,7 +34,7 @@ review: "Easily a top 10 movie that I have ever seen. The black and white emphas
 }
 
 
-##Endpoints
+## Endpoints
 
 
 - Get all movies	https://gbla-api.vercel.app/movies.	GET	N/A All movies on the server: {movies: [{}, {}, ...]}
