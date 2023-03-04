@@ -245,5 +245,18 @@
         "release_year": 2004,
         "rating": 9.2,
         "review": "A brilliant buddy comedy that reflects on the pain of life post-divorce and the value of fidelity, not only in your partner, but in your friends as well. All of this is channeled through the craft of wine, which acts as a catalyst for the plot to continue to develop. My favorite scene is when Virginia Madsen asks Giamatti why he likes Pinot Noir so much, to which he responds something like 'Pinot is hard to grow. It's temperamental, thin-skinned, ripens early, is unforgiving when handled incorrectly. But, when it's given the proper care and attention, and patience to grow just right, it can reveal magnificent things and reach its fullest potential'. The man was doublespeaking about himself and it revealed the amazing quality of the adapted screnplay, which won the Oscar in '04. Raucously funny in addition to jarringly real, a real treat of a movie."
+    },
+    {
+        "id": 20,
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "lead_actors": ["Anthony Hopkins", "Jodie Foster", "Ted Levine"],
+        "genres": ["Horror", "Thriller"],
+        "youtube": "W6Mm8Sbe__o",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "runtime": 118,
+        "release_year": 1991,
+        "rating": 8.6,
+        "review": "Eminently creepy, this movie offers a deep dive into the twisted mindset of psychopathy. It was fascinating to see the character that would eventually lead to so many spinoff shows and movies. None are comparable to Hopkins though, as he delivers one of the most bone-chilling, unsettling, and convicted villian performances you'll ever see. This is not to overshadow Ted Levine as Buffalo Bill, not as cunning and devious as Lector, but equally as twisted. As Clarice, Jodie Foster delivers on the balance of naïvete and courage in the face of such evil. This is a classic horror movie for a reason."
     } 
 ]
