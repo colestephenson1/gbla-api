@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "title": "Nightmare on Elm Street",
+        "title": "A Nightmare on Elm Street",
         "director": "Wes Craven",
         "lead_actors": ["Johnny Depp", "Robert Englund", "Heather Langencamp"],
         "genres": ["Horror", "Thriller"],
@@ -277,12 +277,12 @@
         "title": "The Unbearable Weight of Massive Talent",
         "director": "Tom Gormican",
         "lead_actors": ["Nicolas Cage", "Nicolas Cage", "Pedro Pascal"],
-        "genres": ["Comedy"],
+        "genres": ["Comedy", "Action"],
         "youtube": "x2YHPZMj8r4",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
         "runtime": 105,
         "release_year": 2023,
         "rating": 7.4,
-        "review": "Oh no, you read it right. I credited Nick Cage twice in this movie, because it fits. Nick Cage plays Nick Cage struggling to find a path forward in life after film relevancy, ultimately taking a Mallorca trip where it becomes a buddy comedy with Pedro Pascal. Also, he's often visited by younger Nick Cage who screams at him to keep going. Then Nick Cage makes out with Nick Cage, and Nick Cage somehow becomes a CIA agent in the midst of it all. Despite what you just read, this was a very fun film. The interplay between Cage and Pascal is delightful, and somewhere along the way this strange film became cohesive and interesting. Worth watching for all who like absurdist, self-referrential comedy and fun, dumb action movies."
+        "review": "Oh no, you read it right. I credited Nick Cage twice in this movie, because it fits. Nick Cage plays Nick Cage struggling to find a path forward in life after film relevancy, ultimately taking a Mallorca trip for a final gig where it becomes a buddy comedy with Pedro Pascal. Also, he's often visited by younger Nick Cage who screams at him to keep going. Then Nick Cage makes out with Nick Cage, and Nick Cage somehow becomes a CIA agent in the midst of it all. Despite what you just read, this was a very fun film. The interplay between Cage and Pascal is delightful, and somewhere along the way this strange film became cohesive and interesting. Worth watching for all who like absurdist, self-referrential comedy and fun, dumb action movies."
     } 
 ]
