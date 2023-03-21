@@ -308,7 +308,20 @@
         "poster": "https://i.etsystatic.com/27725708/r/il/691461/2934081525/il_570xN.2934081525_g0nk.jpg",
         "runtime": 119,
         "release_year": 2014,
-        "rating": 9.1,
+        "rating": 9.0,
         "review": "In a year that was loaded with so many of my all time favorite movies (Whiplash, The Grand Budapest Hotel, etc), I always question how this film, which I had heard was very strange, won best picture. Upon seeing it though, I understand why. First, the cast is loaded, and every actor adds a new dimension to the script. Keaton plays the paranoid schizophrenic with a fading star complex perfectly, reflected by Norton, who is so consumed with his craft that he neglects even basic human affability. Emma Stone and Andrea Riseborough give balance to the absurdity, but also have their own damage that weighs on their characters convincingly. And Galifianakis balances out the insanity by representing someone just trying to hold it all together. In my opnion though, the cinematography is what does it for me in this movie. It's almost claustrophobic how close the shots are to the actors, but it adds a new dimension to absurdity, feeling like a continuous shot through most of the movie. Can't fault it at all for winning best picture. "
-    } 
+    },
+    {
+        "id": 25,
+        "title": "All Quiet on the Western Front",
+        "director": "Edward Berger",
+        "lead_actors": ["Daniel Brühl", "Felix Kammerer", "Albrecht Schuch", "Aaron Hilmer"],
+        "genres": ["Action", "Drama"],
+        "youtube": "hf8EYbVxtCY",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+        "runtime": 143,
+        "release_year": 2022,
+        "rating": 8.4,
+        "review": "As I find myself watching the new crop of war movies over the last few years, I've come to resonate with the understated nature of their direction. The characters are conduits for the brutality and sense of hopelessness that the trenches of war deliver. This is not to take away from the actors, especially Krammerer, who is exceptional in deisplaying the naïvete and humanity of unknowing soldiers gone to war. I appreciate the humanization of the Germans and the allied forces alike, as those who die often are pawns in a greater scheme. The beauty of this film for me lies in the environmental construction on the cinematography. Wide-sweeping shots of often tranquil forests and quiet towns contrast perfectly with the chaotic blood-letting of the warfare. Despite this, I do feel the movie lacked slightly in its delivery. Although so many aspects of the film are excellently handled, the pacing left me disengaged at times, and I feel it left a bit on the table with its potential. Still a worthwhile watch for any fan of war movies."
+    }
 ]
