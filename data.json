@@ -336,5 +336,18 @@
         "release_year": 1999,
         "rating": 8.2,
         "review": "Hard to believe it took me this long to finally watch a Guy Ritchie movies, and this one delivered a very fun experience. I see influence from Tarantino (or on Tarantino?) with an ensemble cast of inept lunatics who drive the story through dialogue and eventual violent calamity. The whole movie builds this tension of 'when are all these stories coming together?', and when it finally happens, all hell breaks loose. One of the secondary highlights was the soundtrack, adding great emophasis with punk and late nineties rock that punches the viewer in the gut to match what is displayed on screen. I look forward to watching more Ritchie movies going forward."
+    },
+    {
+        "id": 27,
+        "title": "RRR",
+        "director": "S. S. Rajamouli",
+        "lead_actors": ["Ram Charan", "N. T. Rama Rao Jr.", "Olivia Morris", "Ray Stevenson"],
+        "genres": ["Action", "Drama"],
+        "youtube": "f_vbAtFSEc0",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "runtime": 187,
+        "release_year": 2022,
+        "rating": 9.3,
+        "review": "A spectacle in every sense of the world. Larger than life, completely ridiculous to the point of being original and novel, and charming in the strangest ways. Trust me, this review won't do it justice. Buckle up for the long run time, but don't be dissuaded. This movie is the ride of a lifetime."
     }
 ]
