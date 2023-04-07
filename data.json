@@ -349,5 +349,18 @@
         "release_year": 2022,
         "rating": 9.3,
         "review": "A spectacle in every sense of the word. Larger than life, completely ridiculous to the point of being original and novel, and charming in the strangest ways. Trust me, this review won't do it justice. Buckle up for the long run time, but don't be dissuaded. This movie is the ride of a lifetime."
+    },
+    {
+        "id": 28,
+        "title": "There's Something About Mary",
+        "director": "The Farrelly Brothers",
+        "lead_actors": ["Ben Stiller", "Cameron Diaz", "Matt Dillon"],
+        "genres": ["Comedy"],
+        "youtube": "503D8hOfE_8",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFlZjE5OTYtNWY0ZC00MzgzLTg5MjUtYTFkZjk2NjJkYjM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "runtime": 130,
+        "release_year": 1998,
+        "rating": 9.3,
+        "review": "You know, I'm not normally a big rom-com kind of person. From my movie choices you might infer that I enjoy action movies and fantasy/sci-fi more, but this movie is probably my favorite rom-com ever. There's something about There's Something About Mary that is so genuinely charming, with endearing leads that play their parts perfectly, backed up by comedy gags that don't come off contrived or over-the-top. This movie is the perfect blend of awkward, sweet, and crazy, that all culminates in a perfect comedy. I was howling with laughter through most of this movie, especially in the first 30 minutes and any scene that involved the dog. As a side note, as a giant The Office fan, finally getting the reference to `Frank and Beans` was such a treat. I can't wait to watch this movie again myself and in the future with my kids. A classic comedy for years to come."
     }
 ]
