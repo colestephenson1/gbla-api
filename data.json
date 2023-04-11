@@ -362,5 +362,18 @@
         "release_year": 1998,
         "rating": 9.3,
         "review": "You know, I'm not normally a big rom-com kind of person. From my movie choices you might infer that I enjoy action movies and fantasy/sci-fi more, but this movie is probably my favorite rom-com ever. There's something about There's Something About Mary that is so genuinely charming, with endearing leads that play their parts perfectly, backed up by comedy gags that don't come off contrived or over-the-top. This movie is the perfect blend of awkward, sweet, and crazy, that all culminates in a perfect comedy. I was howling with laughter through most of this movie, especially in the first 30 minutes and any scene that involved the dog. As a side note, as a giant The Office fan, finally getting the reference to `Frank and Beans` was such a treat. I can't wait to watch this movie again myself and in the future with my kids. A classic comedy for years to come."
+    },
+    {
+        "id": 29,
+        "title": "Rushmore",
+        "director": "Wes Anderson",
+        "lead_actors": ["Jason Schwartzman", "Bill Murray", "Olivia Williams"],
+        "genres": ["Comedy"],
+        "youtube": "503D8hOfE_8",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Rushmoreposter.png",
+        "runtime": 90,
+        "release_year": 1998,
+        "rating": 8.1,
+        "review": "Wes Anderson movies tend to be hot or cold for me. On one hand, The Grand Budapest Hotel is one of my favorite films. Yet, others, like Moonrise Kingdom, really didn't hit the mark for me. This movie lives right in the middle. I found the constant change of setting jarring, and although the screenplay was witty and sometimes funny, I never really engaged with the plot in a meaningful way. That being said, Schwartzman plays his role very well, albeit with a character that is hard to pin down and understand their inner motivations. I felt as though there were layers of Max that I wasn't able to tap into, but the movie did pick up some steam when his inner obsessive and sociopath started being revealed. In the end, I would say I enjoyed the movie, but not as much as so many claim to when it comes to the classic films of the nineties. Nods to Bill Murray and Olivia Williams as well, but the triangle of conflict and desire between them and a teenage boy just generally felt contrived to me."
     }
 ]
