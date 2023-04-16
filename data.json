@@ -375,5 +375,19 @@
         "release_year": 1998,
         "rating": 8.1,
         "review": "Wes Anderson movies tend to be hot or cold for me. On one hand, The Grand Budapest Hotel is one of my favorite films. Yet, others, like Moonrise Kingdom, really didn't hit the mark for me. This movie lives right in the middle. I found the constant change of setting jarring, and although the screenplay was witty and sometimes funny, I never really engaged with the plot in a meaningful way. That being said, Schwartzman plays his role very well, albeit with a character that is hard to pin down and understand their inner motivations. I felt as though there were layers of Max that I wasn't able to tap into, but the movie did pick up some steam when his inner obsessive and sociopath started being revealed. In the end, I would say I enjoyed the movie, but not as much as so many claim to when it comes to the classic films of the nineties. Nods to Bill Murray and Olivia Williams as well, but the triangle of conflict and desire between them and a teenage boy just generally felt contrived to me."
+    },
+    {
+        "id": 30,
+        "title": "The Birdcage",
+        "director": "Mike Nichols",
+        "lead_actors": ["Nathan Lane", "Robin Williams", "Hank Azaria"],
+        "genres": ["Comedy"],
+        "youtube": "P7FcPlt8hHc",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Rushmoreposter.png",
+        "runtime": 118,
+        "release_year": 1996,
+        "rating": 9.2,
+        "review": "Another new classic comedy for our household. I'm inclined to love anything Robin Williams, and this is no exception. His sharp, sarcastic humor is on full display, tuned to its finest as he plays the loving father shamed into hiding who he is for the sake of appearances. Nathan Lane is a force beside him, embracing his fullest, beautiful, gay self in a brilliant comedic performance. The two play off each other perfectly, and adding the multifaceted talents of Hank Azaria result in hilarity in every scene. Eventually getting Gene Hackman (a conservative senator) and his wife to dress in drag in order to escape the ire of papparazi is a great way to show a changing of character, and altogether this movie charmed my wife and I like no comedy has in a while. I can't reccomend it enough."
     }
+    
 ]
